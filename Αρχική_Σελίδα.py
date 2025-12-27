@@ -6,6 +6,8 @@ st.title("eDataViz – Οπτικοποίηση Γαλακτοπαραγωγικ
 
 st.markdown("""Καλώς ήρθατε στο **eDataViz**!""")
 
+st.markdown("""**Κώδικας εφαρμογής:**  https://github.com/lemarakis/eDataViz/""")
+
 st.markdown(
     "Επιλέξτε μία από τις παρακάτω αναφορές για να εξερευνήσετε "
     "τα δεδομένα γαλακτοπαραγωγής."
